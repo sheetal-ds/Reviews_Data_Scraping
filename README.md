@@ -9,5 +9,5 @@ MongoDB was chosen for its flexibility in storing varying data structures, scala
 
 This project aimed to support a company's business decisions by providing data on highly rated laptops and understanding why these laptops are rated highly. The web scraping techniques used in this project enabled the collection and preparation of data for use in business decision making.
 
-# Tools & Libraries: Python, Gecko Driver, Selenium, requests, BeautifulSoup, Pandas, glob, and json.
-# Database: MongoDB
+## Tools & Libraries: Python, Gecko Driver, Selenium, requests, BeautifulSoup, Pandas, glob, and json.
+## Database: MongoDB
